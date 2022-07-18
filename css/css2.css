@@ -1,0 +1,136 @@
+/*COMIENZA INDEX*/
+
+/*general*/
+
+/*general*/
+
+/*COMIENZO INDEX*/
+
+/*menú*/
+
+header nav ul li a:hover {
+	color: #737373;
+}
+
+
+/*menú*/
+
+/*main1*/
+
+
+.main__div-bt:hover {
+	background-color: #BFBFBF;
+	cursor: pointer;
+	transition: .5s;
+}
+
+/*main1*/
+
+/*seccion1*/
+
+/*seccion1*/
+
+/*seccion2*/
+
+
+.section2__div-bt:hover {
+	background-color: #BFBFBF;
+	cursor: pointer;
+	transition: .5s;
+}
+
+/*seccion2*/
+
+/*article1*/
+
+.article-bg{
+	background: rgb(217,217,217);
+	background: linear-gradient(0deg, rgba(217,217,217,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.article__div-figure-bt:hover {
+	background-color: #BFBFBF;
+	cursor: pointer;
+	transition: .5s;
+}
+
+/*article1*/
+
+/*newsletter*/
+
+/*newsletter*/
+
+/*footer*/
+
+/*footer*/
+
+/*FIN INDEX*/
+
+/*INICIO SOBRE VALE*/
+
+/*main*/
+
+/*main*/
+
+/*logos*/
+
+.infobae:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+
+.lanacion:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+
+.filonews:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+
+.radionacional:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+
+.telam:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+
+.aptus:hover{
+	-webkit-filter: none;
+    filter: none;
+}
+
+/*logos*/
+
+/*main*/
+
+/*main*/
+
+/*PROYECTOS*/
+
+.section3__div-bt:hover{
+	background-color: #BFBFBF;
+}
+
+.section4__div-bt:hover{
+	background-color: #BFBFBF;
+}
+
+/*PROYECTOS*/
+
+/*NOVEDADES*/
+
+/*NOVEDADES*/
+
+/*CONTACTO*/
+
+/*CONTACTO*/
